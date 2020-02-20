@@ -1,24 +1,8 @@
 # README
+FLIXTER
+Flixter is A two sided video streaming platform, featuring credit card payment capabilities, user role management, complex user interfaces and advanced database relationships
+Tools : HTML. CSS, Ruby, Rails, Algorithms and JavaScript
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Objective:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Courses Enrollment/Payment Web application for Students allowing a Preview of each course listed by the Professor 
