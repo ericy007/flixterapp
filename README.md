@@ -5,4 +5,4 @@ Tools : HTML. CSS, Ruby, Rails, Algorithms and JavaScript
 
 Objective:
 
-Courses Enrollment/Payment Web application for Students allowing a Preview of each course listed by the Professor 
+Courses Enrolment/Payment Web application for Students allowing a Preview of each course listed by the Professor 
