@@ -29,3 +29,5 @@ An in depth view of the Course that you selected, Chapters and Contents are disp
 In Order to Enroll, Payment needs to be processed by CC using Stripe
 
 ![flixter5](https://user-images.githubusercontent.com/50501566/76135961-1b239180-5ffa-11ea-985d-d2df93a38c9e.jpg)
+
+When payment is approved. "You are enrolled" tag appears and course content is now available 
