@@ -55,3 +55,6 @@ Content is now available in MP4/ video streaming format
 
 # Authors
 [Eric Yabit ](https://github.com/ericy007)
+
+# Acknowledgments
+University of Toronto Coding Bootcamp
