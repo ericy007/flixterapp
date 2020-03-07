@@ -32,3 +32,6 @@ In Order to Enroll, Payment needs to be processed by CC using Stripe
 
 When payment is approved. "You are enrolled" tag appears and course content is now available 
 ![flixter7](https://user-images.githubusercontent.com/50501566/76136018-f5e35300-5ffa-11ea-837a-f4f7b8fcfe61.jpg)
+
+Course registration is also confirmed on your dashboard
+
