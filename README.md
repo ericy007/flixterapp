@@ -36,3 +36,7 @@ When payment is approved. "You are enrolled" tag appears and course content is n
 Course registration is also confirmed on your dashboard
 
 ![flxiter8](https://user-images.githubusercontent.com/50501566/76136043-507caf00-5ffb-11ea-9921-82f7d4c71537.jpg)
+
+Content is now available in MP4/ video streaming format
+
+
