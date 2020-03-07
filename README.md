@@ -53,3 +53,5 @@ Content is now available in MP4/ video streaming format
 - AWS/fog-aws (3.4.0)
 - User role management & advanced database relationships
 
+# Authors
+[Eric Yabit ](https://github.com/ericy007)
