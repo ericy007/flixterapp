@@ -38,5 +38,6 @@ Course registration is also confirmed on your dashboard
 ![flxiter8](https://user-images.githubusercontent.com/50501566/76136043-507caf00-5ffb-11ea-9921-82f7d4c71537.jpg)
 
 Content is now available in MP4/ video streaming format
+![flixter9](https://user-images.githubusercontent.com/50501566/76136095-c7b24300-5ffb-11ea-9205-fc4cf4603467.jpg)
 
 
