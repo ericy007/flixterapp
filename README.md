@@ -41,3 +41,15 @@ Content is now available in MP4/ video streaming format
 ![flixter9](https://user-images.githubusercontent.com/50501566/76136095-c7b24300-5ffb-11ea-9205-fc4cf4603467.jpg)
 
 
+# Tech Used
+-Rails (5.0.7.2)
+-Bootstrap (4.3.1)
+-Algorithms
+-Stripe
+-simple_form (4.1.0)
+-Font Awesome (4.7.0.4)
+-Devise (4.6.2)
+-CarrierWave (1.3.1)
+-AWS/fog-aws (3.4.0)
+-User role management & advanced database relationships
+
