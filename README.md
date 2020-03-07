@@ -42,14 +42,14 @@ Content is now available in MP4/ video streaming format
 
 
 # Tech Used
--Rails (5.0.7.2)
--Bootstrap (4.3.1)
--Algorithms
--Stripe
--simple_form (4.1.0)
--Font Awesome (4.7.0.4)
--Devise (4.6.2)
--CarrierWave (1.3.1)
--AWS/fog-aws (3.4.0)
--User role management & advanced database relationships
+- Rails (5.0.7.2)
+- Bootstrap (4.3.1)
+- Algorithms
+- Stripe
+- simple_form (4.1.0)
+- Font Awesome (4.7.0.4)
+- Devise (4.6.2)
+- CarrierWave (1.3.1)
+- AWS/fog-aws (3.4.0)
+- User role management & advanced database relationships
 
