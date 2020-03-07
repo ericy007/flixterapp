@@ -17,4 +17,5 @@ Courses Enrolment/Payment Web application for Students allowing a Preview of eac
 # Users
 Use the 'Sign up' and 'Sign in' links at the top right to create a user and log into it.
 
+![Flixter2](https://user-images.githubusercontent.com/50501566/76135823-a439c900-5ff8-11ea-8207-de9e8055d512.jpg)
 
