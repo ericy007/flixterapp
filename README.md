@@ -21,3 +21,4 @@ Use the 'Sign up' and 'Sign in' links at the top right to create a user and log 
 
 Creating a user will allow you to access Course load and choose which one you'd like ( as a student ) to enroll in
 
+![flixter3](https://user-images.githubusercontent.com/50501566/76135856-fa0e7100-5ff8-11ea-805a-12f8ac8276cd.jpg)
