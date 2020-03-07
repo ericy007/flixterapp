@@ -26,6 +26,6 @@ Creating a user will allow you to access Course load and choose which one you'd 
 An in depth view of the Course that you selected, Chapters and Contents are displayed 
 ![Flixter4](https://user-images.githubusercontent.com/50501566/76135896-638e7f80-5ff9-11ea-82c6-8f9800adecfc.jpg)
 
-In Order to Enroll, Payment need to processed by CC using Stripe
+In Order to Enroll, Payment needs to be processed by CC using Stripe
 
 ![flixter5](https://user-images.githubusercontent.com/50501566/76135961-1b239180-5ffa-11ea-985d-d2df93a38c9e.jpg)
